@@ -64,7 +64,7 @@ If you wanna build the executable on your own, just
 - download and install the latest Rust version
 - execute the `cargo build --release` command
 
-Feel free to enhance the source, fork it, adapt it into your own projects, or whatever. It's under MIT license. You can do with it, whatever you want. 😜
+Feel free to enhance the source, fork it, adapt it into your own projects, or whatever. It's under MIT license. You can do with it whatever you want. 😜
 
 ### Anything else?
 
