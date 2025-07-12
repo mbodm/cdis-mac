@@ -33,7 +33,7 @@ The tool itself should be rather self-explanatory.
 - Just run the `cdis` executable to see which VCP60 value is currently active (and therefore the corresponding input source)
 - By using the `[number]` argument you can set the VCP60 value (and therefore the corresponding input source)
 
-DDC VCP60 values?
+"_DDC VCP60 value_", what?
 
 Each VCP60 value represents one physical input source of your display. Either you just test each VCP60 value (by using the `[number]` argument), or you take a look into your display's user manual, to find out which VCP60 value corresponds to which physical input source.
 
