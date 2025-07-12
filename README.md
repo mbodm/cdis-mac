@@ -6,7 +6,7 @@ A tiny macOS command line tool to change a display's input source by using DDC/C
 ### What is it?
 
 - It's a tiny command line tool for macOS (the `cdis` executable)
-- It's name "cdis" stands for "**C**ontrol **D**isplay **I**nput **S**ource"
+- Its name "cdis" stands for "**C**ontrol **D**isplay **I**nput **S**ource"
 - It uses DDC/CI to control the input source of a DDC-capable external display/monitor
 - It does this by using the native DDC capabilities of macOS (by using an open-source library)
 - It's the macOS pendant of my Windows `cdis.exe` command line tool (see [here](https://github.com/mbodm/cdis))
