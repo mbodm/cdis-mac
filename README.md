@@ -39,21 +39,17 @@ Each VCP60 value represents one physical input source of your display. Either yo
 
 ### Support for earlier macOS/platform versions
 
-Q:  
-So, what about running `cdis` on some older macOS versions or "pre Apple Silicon" machines?
+Q: So, what about running `cdis` on some older macOS versions or "pre Apple Silicon" machines?
 
-A:  
-Sorry, if you still have an Intel Mac or even PowerPC Mac. Only Apple Silicon Macs are supported at the moment.
+A: Sorry, if you still have an Intel Mac or even PowerPC Mac. Only Apple Silicon Macs are supported at the moment.
 
 But i think it should be fairly easy, cause of Rust`s platform handling, to compile the source by your own (targeting those platforms).
 
 ### Support for multiple displays
 
-Q:  
-So, what about support for multiple displays?
+Q: So, what about support for multiple displays?
 
-A:  
-Sorry, full multi-monitor support is somewhat "spicy" to do it the right way. Correctly determining all monitors, handling Desktop with "Extend" and "Duplicate" modes, and listing all devices correctly, ends up rather complex.
+A: Sorry, full multi-monitor support is somewhat "spicy" to do it the right way. Correctly determining all monitors, handling Desktop with "Extend" and "Duplicate" modes, and listing all devices correctly, ends up rather complex.
 
 Therefore:
 - `cdis` doesn't offer multi-monitor support
