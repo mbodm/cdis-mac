@@ -30,9 +30,12 @@ As a result, this tool was born.
 
 The tool itself should be rather self-explanatory.
 
-- Just use the `--cap` argument to see which VCP60 values your display supports. Each VCP60 value represents one physical input source of your display. Either you just test each VCP60 value (by using the `--set` argument), or you take a look into your display's user manual, to find out which VCP60 value corresponds to which physical input source.
-- By using the `--get` argument you can see which VCP60 value (and therefore the corresponding input source) is currently active.
-- By using the `--set` argument you can set the VCP60 value (and therefore the corresponding input source).
+- Just run the `cdis` executable to see which VCP60 value is currently active (and therefore the corresponding input source)
+- By using the `[number]` argument you can set the VCP60 value (and therefore the corresponding input source)
+
+DDC VCP60 values?
+
+Each VCP60 value represents one physical input source of your display. Either you just test each VCP60 value (by using the `[number]` argument), or you take a look into your display's user manual, to find out which VCP60 value corresponds to which physical input source.
 
 ### Support for earlier macOS/platform versions
 
