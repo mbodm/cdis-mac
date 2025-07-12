@@ -13,7 +13,7 @@ A tiny macOS command line tool to change a display's input source by using DDC/C
 - It's a macOS command line application and runs on any Apple Silicon Mac (M1/M2/M3/M4)
 - Its release binary is of type `Mach-O 64-bit executable arm64` and has a size of ~300KB
 - It's written in Rust and built by Rust's `cargo` tool (`aarch64-apple-darwin` target)
-- It's built and developed with Rust 1.88.0 (by using VS Code 1.102.0)
+- It's built and developed with Rust 1.88.0 and VS Code 1.102.0
 - It's built and developed on an Apple Silicon M4 mac mini (running macOS Sequoia 15.5)
 - It uses the open-source `ddc-macos` [crate](https://crates.io/crates/ddc-macos) from Haim Gelfenbeyn as a dependency
 - It's free-to-use and open-source (under MIT license)
