@@ -55,7 +55,7 @@ Therefore:
 - `cdis` doesn't offer multi-monitor support
 - `cdis` will always use the 1st/primary external monitor
 
-I'm sorry that `cdis` can't help you here. But feel free to fork it!
+I'm sorry `cdis` can't help you here. But feel free to fork it!
 
 ### Build from source
 
