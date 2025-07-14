@@ -68,11 +68,11 @@ Feel free to enhance the source, fork it, adapt it into your own projects, or wh
 
 ### Quick tutorial videos
 
-This video shows, how to download and run `cdis` on your macOS (including the removal of the "unknown app" blocking mechanism, macOS security behaviour):
+- This video shows, how to download and run `cdis` on your macOS (including the removal of the "unknown app" blocking mechanism, macOS security behaviour):
 
 [![Watch the video](https://img.youtube.com/vi/g2euPp6d954/hqdefault.jpg)](https://www.youtube.com/watch?v=g2euPp6d954)
 
-And if you wanna start `cdis` by using keyboard shortcuts, like i do, here is a 1:30 min tutorial:
+- And if you wanna start `cdis` by using keyboard shortcuts, like i do, here is a 1:30 min tutorial:
 
 [![Watch the video](https://img.youtube.com/vi/W8bIj_CQ6sc/hqdefault.jpg)](https://www.youtube.com/watch?v=W8bIj_CQ6sc)
 
