@@ -72,7 +72,7 @@ This ~90s video shows how to download and run `cdis` on your macOS (including th
 
 [![Watch the video](https://img.youtube.com/vi/g2euPp6d954/hqdefault.jpg)](https://www.youtube.com/watch?v=g2euPp6d954)
 
-And if you wanna start `cdis` by using keyboard shortcuts, like i do, here is a ~90s tutorial showing how this can be achieved in macOS:
+And if you wanna start `cdis` by using keyboard shortcuts, like i do, here is a ~90s tutorial showing how this can be achieved on macOS too:
 
 [![Watch the video](https://img.youtube.com/vi/W8bIj_CQ6sc/hqdefault.jpg)](https://www.youtube.com/watch?v=W8bIj_CQ6sc)
 
