@@ -31,7 +31,7 @@ As a result, this tool was born.
 The tool itself should be rather self-explanatory.
 
 - Just run the `cdis` executable to see which DDC VCP60 value is currently active (and therefore the corresponding input source)
-- By using the `[number]` argument you can set the DDC VCP60 value (and therefore the corresponding input source)
+- By using the `[number]` argument you can set the DDC VCP60 value (and therefore the corresponding input source of your display)
 
 "_DDC VCP60 value_", what?
 
