@@ -66,6 +66,9 @@ If you wanna build the executable on your own, just
 
 Feel free to enhance the source, fork it, adapt it into your own projects, or whatever. It's under MIT license. You can do with it whatever you want. 😜
 
+### Videos
+[![Watch the video](https://img.youtube.com/vi/g2euPp6d954/hqdefault.jpg)](https://www.youtube.com/watch?v=g2euPp6d954)
+
 ### Anything else?
 
 A giant "Thanks!" to [Haim Gelfenbeyn](https://github.com/haimgel) for his work on `ddc-macos` (an open-source Rust crate, see https://crates.io/crates/ddc-macos). Without it, porting my Windows `cdis.exe` (see [here](https://github.com/mbodm/cdis)), in such a simple way, would not have been possible. DDC/Monitors on Apple Silicon is tricky. Haim did a great work!
