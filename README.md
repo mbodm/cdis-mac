@@ -35,7 +35,7 @@ The tool itself should be rather self-explanatory.
 
 "_DDC VCP60 value_", what?
 
-Each VCP60 value represents one physical input source of your display. Either you just test each VCP60 value (by using the `[number]` argument), or you take a look into your display's user manual, to find out which VCP60 value corresponds to which physical input source.
+Using DDC, each VCP60 value represents one physical input source of your display. Either you just test each VCP60 value (by using the `[number]` argument), or you take a look into your display's user manual, to find out which DDC VCP60 value corresponds to which physical input source.
 
 ### Support for earlier macOS/platform versions
 
